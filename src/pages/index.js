@@ -14,16 +14,10 @@ const HomeIndex = () => {
         <title>{siteTitle}</title>
         <meta name="description" content={siteDescription} />
       </Helmet>
-
       <div id="main">
-        <section id="two">
-
+        <section id="one">
           <Gallery />
-
-      
         </section>
-
-        
       </div>
     </Layout>
   )
