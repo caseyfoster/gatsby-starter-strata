@@ -14,7 +14,8 @@
     "react-helmet": "^5.2.1",
     "react-images": "^1.0.0",
     "sass": "^1.43.4",
-    "sass-loader": "^12.3.0"
+    "sass-loader": "^12.3.0",
+    "NODE_VERSION": "^14.15.0"
   },
   "keywords": [
     "gatsby"
