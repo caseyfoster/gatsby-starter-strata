@@ -12,7 +12,7 @@ const Header = () => (
       <h1>
         <strong>Hello, I am Casey Foster!</strong>
         <br /> Entrepreneur, VP of Product and
-        <br /> a 15 year esports verteran.
+        <br /> a 15 year esports veteran.
       </h1>
     </div>
     <Footer />
