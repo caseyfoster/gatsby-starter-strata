@@ -5,7 +5,7 @@ import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
 const HomeIndex = () => {
-  const siteTitle = 'Casey Foster'
+  const siteTitle = 'Casey Foster - Portfolio'
   const siteDescription = 'Entrepreneur, VP of Product and a 15 year esports verteran.'
 
   return (
