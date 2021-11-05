@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Casey-Foster-Portfolio',
+        name: 'Casey Foster - Portfolio',
         short_name: 'starter',
         start_url: '/',
         background_color: '#663399',
